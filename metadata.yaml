@@ -1,5 +1,8 @@
 _repo: A-handy-dictionary-of-mythology-b-For-everyday-readers_74485
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74485-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74485#A-handy-dictionary-of-mythology-b-For-everyday-readers
 gutenberg_issued: '2024-09-27'
 gutenberg_type: Text
 identifiers:
